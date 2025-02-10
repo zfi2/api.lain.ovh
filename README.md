@@ -11,7 +11,7 @@ Built with Node.js, Express, SQLite, and other dependencies.
    `SERVER_USERNAME`: The reserved username.  
    `SERVER_PASSWORD_HASH`: The bcrypt-hashed password for the reserved username.  
 
-4. Run the server:
+4. Run the server:\
     `node server.js`
 
 **For the frontend part, check out [lain.ovh](https://github.com/zfi2/lain.ovh)**  
