@@ -15,3 +15,6 @@ Built with Node.js, Express, SQLite, and other dependencies.
     `node server.js`
 
 **For the frontend part, check out [lain.ovh](https://github.com/zfi2/lain.ovh)**  
+
+# License
+**This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.**
