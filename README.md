@@ -8,8 +8,8 @@ Built with Node.js, Express, SQLite, and other dependencies.
 2. Install dependencies:  
    `npm install`  
 3. Set up environment variables:  
-    - `SERVER_USERNAME`: The reserved username (case insensitive).  
-    - `SERVER_PASSWORD_HASH`: The bcrypt-hashed password for the admin user.  
+   `SERVER_USERNAME`: The reserved username (case insensitive).  
+   `SERVER_PASSWORD_HASH`: The bcrypt-hashed password for the admin user.  
 
 4. Run the server:
     `node server.js`
