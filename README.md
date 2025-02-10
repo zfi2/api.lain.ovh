@@ -1,5 +1,5 @@
 # API for lain.ovh  
-Backend API for handling [comments, authentication, etc.].\
+Backend API for handling comments, authentication, etc.\
 Built with Node.js, Express, SQLite, and other dependencies.  
 
 ## Instructions on how to run it  
